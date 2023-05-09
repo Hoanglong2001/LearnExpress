@@ -1,0 +1,8 @@
+### GET request with a header
+GET http://localhost:3001/api/notes/1
+
+### GET request with a header
+GET http://localhost:3001/api/notes
+
+### GET request with a header
+DELETE http://localhost:3001/api/notes/3
